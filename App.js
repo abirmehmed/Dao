@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import './App.css';
 import Web3 from 'web3';
 
 const web3 = new Web3(Web3.givenProvider);
